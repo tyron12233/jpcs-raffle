@@ -117,7 +117,7 @@ export default function Home() {
         WebkitBackgroundClip: 'text',
         WebkitTextFillColor: 'transparent'
       }}>
-        Music Raffle
+        JPCS Raffle
       </h1>
 
       {state === State.DRAWING && (
